@@ -1,1 +1,0 @@
-The goal of this website is to demonstrate my HTML skills that I have been learning so far via The Odin Project. This should be a multi-page website with working links, pictures, and text. Wahoo!

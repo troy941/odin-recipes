@@ -1,0 +1,32 @@
+* {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-image: url(img/yellow-tile.png);
+    background-repeat:inherit;
+}
+
+.banner {
+    text-align: center;
+    color:fuchsia
+}
+
+.home {
+    text-align: right;
+}
+.desc {
+    text-align: center;
+    font-weight: 700;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.butt {
+    font-size: 24px;
+}
